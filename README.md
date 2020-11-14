@@ -32,7 +32,7 @@ Para registrar el <strong>grupo completo</strong> con todos sus integrantes: htt
 
 
 
-<a href="https://docs.google.com/spreadsheets/d/1C5TlboQ4kwM8ISqbjtcPCJSgXAjIX555JuIrCkci7Nk/edit#gid=0" target="_blank"><img src = "flujo_trabajo.png"></a>
+<a href="https://docs.google.com/spreadsheets/d/1C5TlboQ4kwM8ISqbjtcPCJSgXAjIX555JuIrCkci7Nk/edit?usp=sharing" target="_blank"><img src = "flujo_trabajo.png"></a>
 <hr>
 
 <h3> Código Qr - diagrama tentativo -</h3>
