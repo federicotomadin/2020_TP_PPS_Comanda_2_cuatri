@@ -11,7 +11,7 @@ Para registrar el <strong>grupo completo</strong> con todos sus integrantes: htt
 <img src="restaurant/src/assets/logo_restaurante.png">
 <hr>
 <h4>Splash</h4>
-<img src="restaurant/src/assets/logo_restaurante.png">
+<img src="restaurant/src/assets/splashScreen.png">
 <hr>
 <h4>Spinner</h4>
 <img src="restaurant/src/assets/logo_restaurante.png">
