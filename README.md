@@ -41,12 +41,12 @@ Lista de espera:
 |:--: |
 | ![enter image description here](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/LISTA-DE-ESPERA.png) | 
 
-Mesas: 
+### Mesas: 
 | Mesa 1 | Mesa 2  | Mesa 3 | Mesa 4 | Mesa 5 |
 |:--: | :--: | :--: | :--: | :--: |
 | ![](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Mesas/qr-mesa-1.png) | ![enter image description here](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Mesas/qr-mesa-2.png)| ![](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Mesas/qr-mesa-3.png) | ![](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Mesas/qr-mesa-4.png) | ![](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Mesas/qr-mesa-5.png) | 
 
-Propinas: 
+### Propinas: 
 | Excelente | Muy bien  | Bien | Regular | Malo |
 |:--: | :--: | :--: | :--: | :--: |
 | ![enter image description here](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Propinas/propina1.png) | ![enter image description here](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Propinas/propina2.png)| ![](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Propinas/propina3.png) | ![](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Propinas/propina4.png) | ![](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Propinas/propina5.png) | 
