@@ -38,6 +38,7 @@ Para registrar el <strong>grupo completo</strong> con todos sus integrantes: htt
 ## Códigos QR utilizados
 
 ### Lista de espera:
+| Lista de espera |
 |:--:|
 | ![enter image description here](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/LISTA-DE-ESPERA.png) | 
 
