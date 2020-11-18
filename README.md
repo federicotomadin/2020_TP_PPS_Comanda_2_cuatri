@@ -39,7 +39,7 @@ Para registrar el <strong>grupo completo</strong> con todos sus integrantes: htt
 
 Lista de espera:
 |:--: |
-| ![enter image description here](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/lista-de-espera.png) | 
+| ![enter image description here](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/LISTA-DE-ESPERA.png) | 
 
 Mesas: 
 | Mesa 1 | Mesa 2  | Mesa 3 | Mesa 4 | Mesa 5 |
