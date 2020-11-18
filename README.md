@@ -1,4 +1,4 @@
-<h1>2020 - 2 cuatrimestre - PPS -- La Comanda</h1>
+<h1>2020 - 2do cuatrimestre - PPS -- La Comanda</h1>
 
 Para registrar el <strong>grupo completo</strong> con todos sus integrantes: https://forms.gle/MPuyrqVP83ahAY7K7
 
