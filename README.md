@@ -1,4 +1,4 @@
-<h1>2020 - 2do cuatrimestre - PPS -- La Comanda</h1>
+<h1>2020 - 2dogit cuatrimestre - PPS -- La Comanda</h1>
 
 Para registrar el <strong>grupo completo</strong> con todos sus integrantes: https://forms.gle/MPuyrqVP83ahAY7K7
 
@@ -48,7 +48,7 @@ Mesas:
 
 Propinas: 
 | Excelente | Muy bien  | Bien | Regular | Malo |
-|:--: | :--: | :--: | :--: |
+|:--: | :--: | :--: | :--: | :--: |
 | ![enter image description here](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Propinas/propina1.png) | ![enter image description here](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Propinas/propina2.png)| ![](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Propinas/propina3.png) | ![](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Propinas/propina4.png) | ![](https://github.com/federicotomadin/2020_TP_PPS_Comanda_2_cuatri/blob/main/QRs/Propinas/propina5.png) | 
 
 
